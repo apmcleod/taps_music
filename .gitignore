@@ -1,0 +1,9 @@
+.vscode/**
+
+*.egg-info/
+*/__pycache__/**
+__pycache__/**
+
+data/**
+onsets-frames/**
+results*/**
