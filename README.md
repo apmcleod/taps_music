@@ -114,3 +114,7 @@ python o_f_test.py data_dir
 ```
 
 Run with `-h` to see other parameters.
+
+# Licensing
+
+This software is also available under a closed source license. Please contact me for more details.
