@@ -2,6 +2,17 @@
 
 Code to perform zero-shot domain adaptation for AMT systems using the Transcription Adaptation via Pitch Shifting (TAPS) method.
 
+This is the code corresponding to [my ICASSP 2025 paper](https://ieeexplore.ieee.org/abstract/document/10890396). If you use it, please cite the paper:
+
+```
+@inproceedings{McLeod:25,
+  title={No Data Required: Zero-Shot Domain Adaptation for Automatic Music Transcription},
+  author={McLeod, Andrew},
+  booktitle={{IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)}},
+  year={2025}
+}
+```
+
 ## Installation
 To install the taps_music package, clone this repo, and run the following command in the python environment of your choice:
 
